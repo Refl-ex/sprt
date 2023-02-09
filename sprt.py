@@ -147,6 +147,3 @@ def plot_results_3d(X, Y, Z):
     ax.plot_surface(X, Y, Z, cmap=cm.viridis)
     ax.view_init(25, 45)
     return fig
-
-
-if __main__ 
